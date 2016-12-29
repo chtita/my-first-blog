@@ -24,19 +24,23 @@ h1, h2, h3, h4 {
 
 .content {
     margin-left: 40px;
+
 }
 .date {
     color: #D408AB;
     float: right;
 }
 
-.edit
-{
+.edit {
     float: right;
 }
 
 .save {
     float: right;
+}
+
+.add-post-button {
+    color: #ffffff;
 }
 
 .post-form textarea, .post-form input {
